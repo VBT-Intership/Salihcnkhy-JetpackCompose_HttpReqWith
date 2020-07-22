@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">no-cloudsave</string>
+    <string name="title_activity_recipe_view">My Compose App</string>
+</resources>
