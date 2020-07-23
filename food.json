@@ -1,0 +1,26 @@
+{
+    "recipes": [
+        
+        {
+            "name": "Beyti Kebap",
+            "image": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5c90fb05c03c0e50a4dce6c4.jpg",
+            "definition" : "Beyti kebabı, Türk mutfağında kuzu etinden yapılan ve yoğurtla servis edilen bir kebap türüdür. Adını Beyti restoranının kurucusu Beyti Güler'den almıştır. Beyti Güler, 1961'deki İsviçre seyahatinde Möller'in et yapma şeklinden etkilenerek bu kebabı üretmiştir."
+        },
+        {
+            "name": "Adana Kebap",
+            "image" : "https://im.haberturk.com/2020/03/06/ver1583929984/2605657_810x458.jpg",
+            "definition" : "Adana kebabı, Adana'ya özgü, 'zırh' adı verilen, satıra benzer bir bıçak ile elde kıyılan parça etten yapılan Türk mutfağında bir kebap çeşidi. Adana kebabını diğer kebaplardan ayıran en belirgin özellik kullanılan ettir."
+        },
+    
+        {
+            "name": "Kavurma",
+            "image" : "https://faydalitavsiyeler.com/wp-content/uploads/2019/07/Saç-kavurma-768x394.jpg",
+            "definition" : "Kavurma Türk mutfağında bir et saklama yöntemidir. Bu yöntemle saklanan kırmızı etlere de kavurma denir. Eski Türkler av etlerini kavurma yöntemiyle saklıyorlardı."
+        },
+        {
+            "name": "Tas Kebabı",
+            "image" : "https://i.ytimg.com/vi/dT-amb6BHp8/maxresdefault.jpg",
+            "definition" : "Taş kebabı İran, Kürt ve Türk et güveçidir. Dana eti veya koyun eti ile yapılabilir."
+        }
+    ]
+}
